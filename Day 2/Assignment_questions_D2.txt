@@ -1,0 +1,68 @@
+Prob - 1 :
+Write a program to find if a string is a palindrome or not. The string could be a phrase also. For example, your program should be able detect the phrase "Madam, I'm Adam" as a palindrome.
+
+
+Prob - 2 :
+Write a program to change the case of a character in a string. If the input string is "HelloWorld", and the input index is 1, then output of the program will be "HElloWorld".
+
+
+Prob - 3 :
+You will be given a list of numbers, you have to find the pair of numbers which sums to 7.
+Test Case : If the list is [2,4,3,8,9,-1,-2], the returned pairs will be [ [4,3],[8,-1],[9,-2] ]
+There should not be any duplicate pairs!
+
+
+
+Prob - 4 :
+Write a pogram to find armstrong number.
+
+
+Prob - 5 :
+Write a program to find leap year.
+
+
+Prob - 6 :
+Write a program to mix two string in alternate manner.
+test case:
+
+input : str1="apple", str2="orange"
+
+output : "aoprpalnege"
+
+
+Prob - 7 :
+Print it in the console.
+\\   
+ \\
+  \\
+   \\
+   //
+  // 
+ //
+// 
+
+
+
+Prob - 8 :
+Write a program to find out the positional sum of values of a string. For example, the positional value of 'a' = 1, 'b' = 2, ... 'z' = 26.
+Test Case : If input string is "Attitude", the output will be 100.
+
+
+
+
+Prob - 9 :
+A robot moves in a plane starting from the original point (0,0). The robot can move toward UP, DOWN, LEFT and RIGHT with a given steps. The trace of robot movement is shown as the following:
+UP 5
+DOWN 3
+LEFT 3
+RIGHT 2
+¡­
+The numbers after the direction are steps. Please write a program to compute the distance from current position after a sequence of movement and original point. If the distance is a float, then just print the nearest integer.
+Example:
+If the following tuples are given as input to the program:
+UP 5
+DOWN 3
+LEFT 3
+RIGHT 2
+Then, the output of the program should be:
+2
